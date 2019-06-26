@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using UnityEngine;
 
 public class CharacterAttack : MonoBehaviour {
-
+    /*
     private float timeBtwAttack;
     public float startTimeBtwAttack;
 
@@ -37,5 +37,5 @@ public class CharacterAttack : MonoBehaviour {
     {
         Gizmos.color = Color.red;
         Gizmos.DrawWireSphere(attackPos.position, attackRange);
-    }
+    }*/
 }
